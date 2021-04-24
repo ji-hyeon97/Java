@@ -31,3 +31,4 @@ public class Main {
         }
     }
 }
+//시간초과문제 해결하기
